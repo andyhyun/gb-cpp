@@ -1,7 +1,5 @@
 #include <cstdint>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include <iostream>
 
 using Byte = std::uint8_t;
 using Word = std::uint16_t;
